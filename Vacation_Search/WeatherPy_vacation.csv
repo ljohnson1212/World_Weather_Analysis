@@ -195,7 +195,7 @@ City_ID,City,Country,Max Temp,Lat,Lng,Hotel Name
 236,Datong,CN,27.41,40.0936,113.2914,Holiday Inn Datong City Centre
 237,Huarmey,PE,70.97,-10.0681,-78.1522,Hotel Miramar
 238,Flinders,AU,76.8,-34.5833,150.8552,Shellharbour Resort & Conference Centre
-239,Hobyo,SO,77.22,5.3505,48.5268,Halane Hotel and Restaurent
+239,Hobyo,SO,77.22,5.3505,48.5268,Iftin hotel hobyo
 240,Yumbe,UG,67.96,3.4651,31.2469,Antonio's Hotel
 242,Kesinga,IN,79.79,20.2,83.2333,Hotel Jayashree
 243,Benjamin Constant,BR,73.53,-4.3831,-70.0311,CASA AVALIADA
@@ -406,7 +406,7 @@ City_ID,City,Country,Max Temp,Lat,Lng,Hotel Name
 481,Panzhihua,CN,63.59,26.5851,101.7128,Electric Power Hotel
 482,Pahrump,US,53.31,36.2083,-115.9839,Best Western Pahrump Oasis
 483,Maceio,BR,74.64,-9.6658,-35.7353,Hotel Ponta Verde Maceió
-484,Lebedyn,UA,32.77,50.5852,34.4849,Hanna
+484,Lebedyn,UA,32.77,50.5852,34.4849,"The regional Children's multi-resort ""Lebedin"""
 485,Mount Isa,AU,91.17,-20.7333,139.5,ibis Styles Mt Isa Verona
 486,Ilheus,BR,75.22,-14.7889,-39.0494,Barravento Hotel
 487,Hit,IQ,50.54,33.6416,42.8251,صالون زيرو
